@@ -1,8 +1,5 @@
 {
-  "name": "@xvandevx/react-product-gallery",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/xvandevx"
-  },
+  "name": "@xvandev/react-product-gallery",
   "version": "0.0.1",
   "description": "React product gallery",
   "scripts": {
